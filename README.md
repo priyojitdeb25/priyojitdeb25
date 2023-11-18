@@ -1,3 +1,5 @@
+![logo](https://github.com/priyojitdeb25/priyojitdeb25/blob/main/Priyojit%20Deb%20Github%20Profile%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Priyojit Deb</h1>
 <h3 align="center">Currently working as a Cloud Solution Specialist for an ECM Software in the installations team | DevOps Enthusiast</h3>
 
